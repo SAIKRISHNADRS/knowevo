@@ -124,7 +124,7 @@ ROOT_URLCONF = 'knowevo.urls'
 
 TEMPLATE_DIRS = (
     #'/home/sasho/cs/knowevo/templates/',
-    '/home/saikrishna/cs/school/knowevo/templates/',
+    '/home/saikrishna/.ssh/knowevo/templates',
 
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
