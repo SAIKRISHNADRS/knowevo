@@ -85,9 +85,9 @@ ADMIN_MEDIA_PREFIX = '/static/admin/'
 # Additional locations of static files
 STATICFILES_DIRS = (
     #'/home/sasho/cs/knowevo/static/js',
-    '/home/saikrishna/cs/school/knowevo/static/js',
+    '/home/saikrishna/Desktop/Project Gravebook/knowevo/static/js',
     '/home/saikrishna/cs/school/knowevo/static/java',
-    '/home/saikrishna/cs/school/knowevo/static/css',
+    '/home/saikrishna/Desktop/Project Gravebook/knowevo/static/css',
 
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
